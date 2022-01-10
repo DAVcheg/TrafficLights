@@ -21,9 +21,6 @@ class ViewController: UIViewController {
         redLightView.layer.cornerRadius = 100
         yellowLightView.layer.cornerRadius = 100
         greenLightView.layer.cornerRadius = 100
-        redLightView.alpha = 0.3
-        yellowLightView.alpha = 0.3
-        greenLightView.alpha = 0.3
     }
 
     @IBAction func switchLightButton() {
