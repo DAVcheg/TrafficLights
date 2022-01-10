@@ -48,29 +48,7 @@ class ViewController: UIViewController {
             showTextButton.setTitle("ERROR", for: .normal)
         }
         
-        
-//        if  lightStatus == 0 {
-//            redLightView.alpha = 1
-//            showTextButton.setTitle("NEXT", for: .normal)
-//            lightStatus = 1
-//        }
-//        if lightStatus == 1 {
-//            redLightView.alpha = 0.3
-//            yellowLightView.alpha = 1
-//            lightStatus = 2
-//        }
-//        if lightStatus == 2 {
-//            yellowLightView.alpha = 0.3
-//            greenLightView.alpha = 1
-//            lightStatus = 3
-//        }
-//        if lightStatus == 3 {
-//            greenLightView.alpha = 0.3
-//            showTextButton.setTitle("START", for: .normal)
-//            lightStatus = 0
-//        } else {
-//            showTextButton.setTitle("ERROR", for: .normal)
-//    }
+    
         }
 }
 
